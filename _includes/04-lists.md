@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Java
+- C#
+- Swift
+- HTML5
+- JavaScript
